@@ -1,10 +1,11 @@
 # DNA Sequence Analyzer
 
-This is a Python program for performing basic bioinformatics operations on DNA sequences. It includes:
+This is a Python program for performing basic bioinformatics operations on DNA sequences. 
 
-- ✅ DNA sequence validation
-- 🧮 GC Content calculation
-- 🔁 Transcription (DNA → RNA)
-- 🧬 Translation (DNA → Protein)
-- 🔡 Codon frequency analysis
-- 🔁 Reverse complement generation
+It includes:
+- DNA sequence validation
+- GC Content calculation
+- Transcription (DNA → RNA)
+- Translation (DNA → Protein)
+- Codon frequency analysis
+- Reverse complement generation
