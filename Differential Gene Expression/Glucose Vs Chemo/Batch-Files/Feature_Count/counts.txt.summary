@@ -1,0 +1,15 @@
+Status	bam-files/read_output.bam	bam-files/read_output_b1.bam	bam-files/read_output_b2.bam	bam-files/read_output_b3.bam	bam-files/read_output_c4.bam	bam-files/read_output_c5.bam	bam-files/read_output_c6.bam
+Assigned	31857	31857	43271	33619	43940	36148	43940
+Unassigned_Unmapped	0	0	0	0	2	0	2
+Unassigned_Read_Type	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0
+Unassigned_MultiMapping	4986	4986	6554	5346	7277	6490	7277
+Unassigned_Secondary	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0
+Unassigned_NoFeatures	724	724	994	749	869	775	869
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0
+Unassigned_Ambiguity	9334	9334	12747	10082	8652	7189	8652
