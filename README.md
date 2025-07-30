@@ -101,4 +101,5 @@ If any portion of the code is used in publications or derivative work, please ci
 For research queries or collaboration proposals, please connect via:
 
 - GitHub: [github.com/Shubhang-bioinfo](https://github.com/Shubhang-bioinfo)
-- Email: shubhangbiotech.22685@gmail.com 
+- Email: shubhangbiotech.22685@gmail.com
+- LinkedIn: [linkedin.com/shubhang-arya](https://www.linkedin.com/in/shubhang-arya-4b2b0524a/) 
