@@ -1,0 +1,11 @@
+IQ-TREE multicore version 2.4.0 for MacOS ARM 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Shubhangs-MacBook-Air.local (SSE4.2, 8 GB RAM)
+Command: iqtree -s aligned-myco-1.fasta -m GTR+G -nt AUTO
+Seed:    515445 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Apr  6 00:35:22 2025
+Kernel:  SSE2 - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file aligned-myco-1.fasta ... ERROR: File not found aligned-myco-1.fasta
